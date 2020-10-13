@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# My GH stats
+![cromanpa's github stats](https://github-readme-stats.vercel.app/api?username=cromanpa&show_icons=true&theme=tokyonight)
+
+# My language list
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cromanpa&theme=tokyonight)
+
+
 <!--
 **cromanpa94/cromanpa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
