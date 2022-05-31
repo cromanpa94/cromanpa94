@@ -7,7 +7,7 @@ I use statistics and bioinformatics to address questions at the interface betwee
 
 ## Who am I? ☺️
 
-I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I received my bachelor's degree from Universidad del Valle, in Cali, Colombia. I am also very much into photography!
+I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I received my bachelor's degree from Universidad del Valle, in Cali, Colombia, and Ph.D from the University of Arizona i Tucson. I am also very much into photography!
 
 <p align="center">
 <img src="CRP2019.jpg" width="500"/>
