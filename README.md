@@ -7,7 +7,7 @@ I use statistics and bioinformatics to address questions at the interface betwee
 
 ## Who am I? ☺️
 
-I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I received my bachelor's degree from Universidad del Valle, in Cali, Colombia, and Ph.D from the University of Arizona i Tucson. I am also very much into photography!
+I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I received my bachelor's degree from Universidad del Valle, in Cali, Colombia, and Ph.D from the University of Arizona in Tucson, AZ.
 
 <p align="center">
 <img src="CRP2019.jpg" width="500"/>
@@ -31,7 +31,7 @@ I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning lan
 
 ## How do you get in touch? 📬
 - Here's my [website](http://cromanpa94.github.io/cromanpa/contact/) with more info!
-- My email: cromanpa@g.ucla.edu
+- My email: cromanpa94@g.arizona.edu
 - Twitter @cromanpa
 
 
