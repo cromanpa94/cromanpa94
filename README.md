@@ -31,7 +31,7 @@ I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning lan
 
 ## How do you get in touch? 📬
 - Here's my [website](http://cromanpa94.github.io/cromanpa/contact/) with more info!
-- My email: cromanpa94@g.arizona.edu
+- My email: cromanpa94@arizona.edu
 - Twitter @cromanpa
 
 
