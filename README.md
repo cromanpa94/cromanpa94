@@ -17,10 +17,12 @@ I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning lan
 - I currently maintain [treedata.table](https://github.com/ropensci/treedata.table) which was reviewed at [rOpenSci](https://ropensci.org/)
 - I help maintaining [BayClump](https://github.com/Tripati-Lab/BayClump) with the amazing [Hannah Caroll](https://github.com/hannahcarroll) for the [Tripati lab at UCLA](http://atripati.bol.ucla.edu/)
 - I maintain the [Animal Chromosome Count database](https://cromanpa94.github.io/ACC/). The repo is [here](https://github.com/cromanpa94/ACC) and publication [here](https://doi.org/10.1111/jeb.13884).
+- I am working on [autogradeR](https://github.com/cromanpa94/autogradeR), a package to teach data science.
 
 ## What am I working on right now? (Aug 2021) ✨
 - A new R package to perform phylogenetic analyses within R: [phruta](https://github.com/cromanpa94/phruta)
 - An R package to integrate BayesTraits and R: [rBT](https://github.com/cromanpa94/rBT)
+- I'm currently working on [salphycon](https://github.com/cromanpa94/salphycon), a shiny app that extends the functionality of `phruta`.
 
 ## Please do get in touch...💬
 
