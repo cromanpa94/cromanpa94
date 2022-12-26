@@ -23,6 +23,7 @@ I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning lan
 - A new R package to perform phylogenetic analyses within R: [phruta](https://github.com/cromanpa94/phruta)
 - An R package to integrate BayesTraits and R: [rBT](https://github.com/cromanpa94/rBT)
 - I'm currently working on [salphycon](https://github.com/cromanpa94/salphycon), a shiny app that extends the functionality of `phruta`.
+- A shiny app to check for potential plagiarism in rmd, qmd, txt files. `plagiaRized` is available in the following [link](https://viz.datascience.arizona.edu/plagiarized/).
 
 ## Please do get in touch...💬
 
