@@ -1,6 +1,11 @@
 # 😄 Hey, hola!! 😄
 
 
+## An overview of my GitHub
+
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromanpa94&count_private=true&show_icons=true&theme=blueberry) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cromanpa94&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/cromanpa94/github-readme-stats)
+
+
 ## My research 🤔
 
 I use statistics and bioinformatics to address questions at the interface between ecology and evolution. My research interests are generally related to phylogenetics, systematics, convervation biology, and the effects of climate change on biodiversity at different spatial and taxonomic scales! 
