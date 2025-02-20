@@ -1,11 +1,6 @@
 # 😄 Hey, hola!! 😄
 
 
-## An overview of my GitHub
-
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromanpa94&count_private=true&show_icons=true&theme=blueberry) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cromanpa94&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/cromanpa94/github-readme-stats)
-
-
 ## My research 🤔
 
 I use statistics and bioinformatics to address questions at the interface between ecology and evolution. My research interests are generally related to phylogenetics, systematics, convervation biology, and the effects of climate change on biodiversity at different spatial and taxonomic scales! 
@@ -23,12 +18,6 @@ I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning lan
 - I help maintaining [BayClump](https://github.com/Tripati-Lab/BayClump) with the amazing [Hannah Caroll](https://github.com/hannahcarroll) for the [Tripati lab at UCLA](http://atripati.bol.ucla.edu/)
 - I maintain the [Animal Chromosome Count database](https://cromanpa94.github.io/ACC/). The repo is [here](https://github.com/cromanpa94/ACC) and publication [here](https://doi.org/10.1111/jeb.13884).
 - I am working on [autogradeR](https://github.com/cromanpa94/autogradeR), a package to teach data science.
-
-## What am I working on right now? (Aug 2021) ✨
-- A new R package to perform phylogenetic analyses within R: [phruta](https://github.com/cromanpa94/phruta)
-- An R package to integrate BayesTraits and R: [rBT](https://github.com/cromanpa94/rBT)
-- I'm currently working on [salphycon](https://github.com/cromanpa94/salphycon), a shiny app that extends the functionality of `phruta`.
-- A shiny app to check for potential plagiarism in rmd, qmd, txt files. `plagiaRized` is available in the following [link](https://viz.datascience.arizona.edu/plagiarized/).
 
 ## Please do get in touch...💬
 
