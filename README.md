@@ -1,1 +1,1 @@
-Welcome! My research uses data science, phylogenetic comparative methods, statistics, machine learning, and bioinformatics to address questions primarily at the intersection between ecology and evolution. Find my recent work [here](https://datadiversitylab.github.io/).
+Welcome! My research borrows methods from data science, phylogenetics, statistics, machine learning, and bioinformatics to address questions primarily at the intersection between ecology and evolution. Find my recent work [here](https://datadiversitylab.github.io/).
