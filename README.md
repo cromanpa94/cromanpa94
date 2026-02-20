@@ -1,3 +1,1 @@
-# Welcome!
-
-I use statistics and bioinformatics to address questions at the intersection between ecology and evolution. My research interests are generally related to phylogenetics, systematics, convervation biology, and the effects of climate change on biodiversity at different spatial and taxonomic scales.
+I use statistics and bioinformatics to address questions at the intersection between ecology and evolution. My research interests are generally related to phylogenetics, systematics, convervation biology, and the effects of climate change on biodiversity at different spatial and taxonomic scales. Check my recent work [here](https://datadiversitylab.github.io/).
